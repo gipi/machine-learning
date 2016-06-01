@@ -14,6 +14,7 @@ Some notes about machine learning.
  - [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/html/) online book (PDF available)
  - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) online book
  - [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
+ - [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 
 ## Machine learning
 
