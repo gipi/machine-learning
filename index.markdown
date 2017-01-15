@@ -7,6 +7,10 @@ title: Machine Learning
 
 Some notes about machine learning.
 
+## Prerequisites
+
+ - [From python to numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+
 ## Statistics
 
  - [Scipy Lecture Notes](http://www.scipy-lectures.org/)
