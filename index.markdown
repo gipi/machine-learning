@@ -26,4 +26,5 @@ Some notes about machine learning.
  - [Tensor flow playground](http://playground.tensorflow.org/)
  - [Machine learning courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
  - [A guide to deep learning](http://yerevann.com/a-guide-to-deep-learning/)
+ - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
  
