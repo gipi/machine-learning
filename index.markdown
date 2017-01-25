@@ -28,4 +28,4 @@ Some notes about machine learning.
  - [A guide to deep learning](http://yerevann.com/a-guide-to-deep-learning/)
  - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
  - [Visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
- 
+ - [Deep learning for chess](https://erikbern.com/2014/11/29/deep-learning-for-chess/) 
