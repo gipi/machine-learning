@@ -30,3 +30,5 @@ Some notes about machine learning.
  - [Visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
  - [Deep learning for chess](https://erikbern.com/2014/11/29/deep-learning-for-chess/) 
  - [Machine learning for dummies](https://chatbotslife.com/machine-learning-for-dummies-part-1-dbaca076ec07)
+ - [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
+ 
