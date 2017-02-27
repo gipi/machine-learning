@@ -19,6 +19,7 @@ Some notes about machine learning.
  - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) online book
  - [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
  - [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers)
+ - [Seeing theory](http://students.brown.edu/seeing-theory/) a visual introduction to probability and statistics
 
 ## Machine learning
 
