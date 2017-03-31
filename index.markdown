@@ -32,4 +32,4 @@ Some notes about machine learning.
  - [Deep learning for chess](https://erikbern.com/2014/11/29/deep-learning-for-chess/) 
  - [Machine learning for dummies](https://chatbotslife.com/machine-learning-for-dummies-part-1-dbaca076ec07)
  - [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
- 
+ - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
