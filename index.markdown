@@ -10,6 +10,8 @@ Some notes about machine learning.
 ## Prerequisites
 
  - [From python to numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+ - [Python vs R](https://www.dataquest.io/blog/python-vs-r/)
+ - [seaborn](http://seaborn.pydata.org/): is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics
 
 ## Statistics
 
