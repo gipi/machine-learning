@@ -22,6 +22,7 @@ Some notes about machine learning.
  - [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
  - [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers)
  - [Seeing theory](http://students.brown.edu/seeing-theory/) a visual introduction to probability and statistics
+ - [Statistical Analysis with Python PyCon 2017](https://www.youtube.com/watch?v=p1IB4zWq9C8)
 
 ## Machine learning
 
