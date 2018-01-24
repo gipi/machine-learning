@@ -37,3 +37,4 @@ Some notes about machine learning.
  - [Machine learning for dummies](https://chatbotslife.com/machine-learning-for-dummies-part-1-dbaca076ec07)
  - [TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
  - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+ - [Understanding and building Generative Adversarial Networks(GANs)- Deep Learning with PyTorch](https://becominghuman.ai/understanding-and-building-generative-adversarial-networks-gans-8de7c1dc0e25)
