@@ -33,6 +33,7 @@ Some notes about machine learning.
  - [Tensor flow playground](http://playground.tensorflow.org/)
  - [Machine learning courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
  - [A guide to deep learning](http://yerevann.com/a-guide-to-deep-learning/)
+ - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
  - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
  - [Visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
  - [Deep learning for chess](https://erikbern.com/2014/11/29/deep-learning-for-chess/) 
