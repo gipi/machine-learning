@@ -43,3 +43,4 @@ Some notes about machine learning.
  - [Understanding and building Generative Adversarial Networks(GANs)- Deep Learning with PyTorch](https://becominghuman.ai/understanding-and-building-generative-adversarial-networks-gans-8de7c1dc0e25)
  - [Seven Myths in Machine Learning Research](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/)
  - [An Easy Guide to Gauge Equivariant Convolutional Networks](https://towardsdatascience.com/an-easy-guide-to-gauge-equivariant-convolutional-networks-9366fb600b70)
+ - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
