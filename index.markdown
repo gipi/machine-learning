@@ -46,6 +46,10 @@ Some notes about machine learning.
  - [An Easy Guide to Gauge Equivariant Convolutional Networks](https://towardsdatascience.com/an-easy-guide-to-gauge-equivariant-convolutional-networks-9366fb600b70)
  - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
+### Convolutional NN
+
+ - Intro to CNNs [part 1](https://victorzhou.com/blog/intro-to-cnns-part-1/), [part 2](https://victorzhou.com/blog/intro-to-cnns-part-2/)
+
 ### Object detection
 
  - [How to Build a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow](https://medium.com/@victor.dibia/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) and the corresponding [repo](https://github.com/victordibia/handtracking)
