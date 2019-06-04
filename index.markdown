@@ -33,6 +33,7 @@ Some notes about machine learning.
 
 ## Machine learning
 
+ - [A History of Deep Learning](https://www.import.io/post/history-of-deep-learning/)
  - [A Visual And Interactive Look at Basic Neural Network Math](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
  - [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
  - [Tensor flow playground](http://playground.tensorflow.org/)
