@@ -30,6 +30,7 @@ Some notes about machine learning.
 ## Computer Vision
 
  - [videoflow](https://videoflow.readthedocs.io) is a Python framework for video stream processing
+ - [TensorFlow Object Detection API](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API) This wiki describes how to work with object detection models trained using TensorFlow Object Detection API
 
 ## Machine learning
 
