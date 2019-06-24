@@ -59,3 +59,7 @@ Some notes about machine learning.
 ### Object detection
 
  - [How to Build a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow](https://medium.com/@victor.dibia/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) and the corresponding [repo](https://github.com/victordibia/handtracking)
+
+### GANN
+
+ - [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far/)
