@@ -60,6 +60,7 @@ Some notes about machine learning.
 ### Object detection
 
  - [How to Build a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow](https://medium.com/@victor.dibia/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce) and the corresponding [repo](https://github.com/victordibia/handtracking)
+ - [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
 
 ### GANN
 
