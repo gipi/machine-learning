@@ -1,2 +1,2 @@
 exclude: [README.markdown,]
-pygments: True
+highlighter: rouge
