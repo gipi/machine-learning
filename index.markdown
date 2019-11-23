@@ -52,6 +52,7 @@ Some notes about machine learning.
  - [Seven Myths in Machine Learning Research](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/)
  - [An Easy Guide to Gauge Equivariant Convolutional Networks](https://towardsdatascience.com/an-easy-guide-to-gauge-equivariant-convolutional-networks-9366fb600b70)
  - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+ - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks/) A small course on exploiting and defending neural networks
 
 ### Convolutional NN
 
